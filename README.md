@@ -73,7 +73,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 </details>
 
 <h4>DEPLOY VIA BOT</h4>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=dmNreW91L0dlZXpQcm9qZWN0cyBtYXN0ZXI">
+<a href="https://github.com/vckyou/GeezDeploy">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="deploy">
 </a>
 
