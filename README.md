@@ -73,7 +73,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 </details>
 
 <h4>DEPLOY VIA BOT</h4>
-<a href="https://github.com/vckyou/GeezDeploy">
+<a href="https://heroku.com/deploy?template=https://github.com/vckyou/GeezDeploy.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="deploy">
 </a>
 
